@@ -1,1 +1,5 @@
 1. git init == git initialization.
+
+2. git add .  ==all files add into git
+
+3.git commit -m "asfdjhasgdjahsgdahj" ==description for git add.
